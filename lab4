@@ -1,0 +1,13 @@
+package lab4;
+
+public class Mobile {
+
+	private string brand;
+	private string color;
+	private int yearofproduction;
+	
+	public static void printmobileinfo() {
+		system.out.println ("mobile brand "+ brand+ " color "+color);
+		
+	}
+}
