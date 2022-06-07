@@ -1,0 +1,15 @@
+package lab3;
+
+public class assimant1 {
+ 
+	public static void main(string[] args) {
+		Lamp lamp1=new lamp();
+		lamp1.isOn=false;
+		System.out.println(lamp1.isOn);
+		
+		Lamp lamp2=new lamp();
+		lamp2.isOn=true;
+		System.out.println(lamp1.isOn);
+	}
+	
+}
