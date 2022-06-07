@@ -1,0 +1,13 @@
+package subway;
+
+public class lab6 {
+	public static void main(sting[] args);
+	
+	gamesystme.startgame();
+	player.moveright();
+	player.collectcoin();
+	player.moveleft();
+	player.collectcoin();
+	player.collectcoin();
+
+}
